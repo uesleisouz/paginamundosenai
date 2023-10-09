@@ -1,1 +1,1 @@
-#Página sobre microcomputadores
+# Página sobre microcomputadores
